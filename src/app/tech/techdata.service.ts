@@ -40,8 +40,4 @@ export class TechdataService {
   }];
 
   constructor() { }
-
-  // addTech() {
-  //   this.techs.push('');
-  // }
 }
